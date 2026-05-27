@@ -1,4 +1,5 @@
-EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="⭐ Mundial⭐ 2026 ",Directv sports opc1
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="⭐ Mundial⭐ 2026 ",Directv sports opc1
 http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/526169.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/foxsports.png" group-title="⭐ Mundial 2026⭐ ",FDirectv sports(Opcion 2)
